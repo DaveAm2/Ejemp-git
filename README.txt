@@ -10,4 +10,5 @@ Indicaciones:
 5. El comando para guardar en un archivo de texto las dependencias
    necesarias para el proyecto es:
         pip freeze>requirements.txt
-6. Archivo modificado desde GitHub
+6. Archivo modificado desde GitHub.
+7. Nueva actualización local.
